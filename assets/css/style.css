@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("images/image\ suit.jpg") ;
+  background: url("../img/testimonials/image\ suit.jpg") ;
   background-size: cover;
   background-color: black;
   position: relative;
